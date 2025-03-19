@@ -1,4 +1,3 @@
-# Samir OUBNINTE
 
 105-767 rue de Rougemont,  
 Québec, G1X 2M1  
