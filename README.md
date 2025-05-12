@@ -101,31 +101,30 @@ CETIM-MINES DOUAI, France, Douai  (2015)
 
 ## AUTRES EXPÉRIENCES  
 
-### **Représentant porte à porte**  
-**Vertdure** (2025 - …)  
+**Représentant porte à porte**  
+Vertdure (2025 - …)  
 
-### **Valet, Patrouilleur**  
-**Indigo – Hôtel Hilton, Hôtel Germain** (2022 - …)  
+**Valet, Patrouilleur**  
+Indigo – Hôtel Hilton, Hôtel Germain- (2022 - en cours)  
 - Fournir un **service à la clientèle** selon les meilleurs standards.  
 - Déplacer et **stationner les véhicules** avec la plus grande minutie.  
 - Effectuer l’**inspection sommaire** avant la prise en charge des véhicules.  
 
-### **Agent de sécurité temporaire – Covid-19**  
-(2020 - 2022)  
+**Agent de sécurité temporaire – Covid-19**  (2020 - 2022)  
 - Faire respecter les **consignes COVID** tout en offrant un **service client** optimal.  
 
 **Projet de fin d’études**  
-**RMA Assurance, Casablanca, Maroc** (2014)  
+RMA Assurance, Casablanca, Maroc (2014)  
 - **Épuration et validation** de la base de données.  
 - Mise en place d’un **système de segmentation** pour des objectifs marketing et de modélisation.  
 - **Réalisation et automatisation** de l’étude tarifaire du RC automobile (`VBA`, `SAS`, `SPSS`).  
 
 **Stage de perfectionnement – Statistique / Analyse de données**  
-**Université Cadi Ayyad, Maroc** (2013)  
+Université Cadi Ayyad, Maroc (2013)  
 - Application des **réseaux de neurones** au **scoring bancaire**.  
 
 **Stage d'observation**  
-**Best Milk, Marrakech, Maroc** (2012)  
+Best Milk, Marrakech, Maroc** (2012)  
 - Tâches de **comptabilité**, gestion des **achats**…  
 
 **Jobs d'été :**  
@@ -151,8 +150,7 @@ CETIM-MINES DOUAI, France, Douai  (2015)
 - **Trois papiers en cours de soumission**.  
 
 ## Bénévolat  
-- **Co-organisateur et conférencier** participant au **Bootcamp IID 2025**  
-  [Site web de l’événement](https://sites.google.com/view/bootcamp-iid-2025/accueil)  
+- **Co-organisateur et conférencier** participant au **Bootcamp IID 2025** ([Site web de l’événement](https://sites.google.com/view/bootcamp-iid-2025/accueil))
 - **Animateur d’ateliers de français** *Divertirse en français* pour les travailleurs étrangers temporaires.  
 - **Bénévole** à l’**Association Mieux-Être des Immigrants**.  
 - **Ancien vice-président** de **L’AMMUL** et **bénévole** à l’**Université Laval**.  
