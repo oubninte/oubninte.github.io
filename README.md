@@ -54,13 +54,13 @@ CISSCA–Lévis , Lévis  (2021-2022)
 
 **Responsable ingénierie (analyse de données)**  
 Richbond Ci, Coté d’ivoire  (2016-2019)  
-### Missions principales  
+Missions principales:
 - **Définir et mettre en place** avec le responsable de production les nouveaux process.  
 - **Calculer la capacité** par rapport à la charge (**nombre de machines, nombre de postes, nombre d’opérateurs**).  
 - **Adapter, optimiser et rentabiliser** les process afin d’atteindre les objectifs de **productivité, qualité et sécurité**.  
 - **Prototyper et industrialiser** les nouveaux produits en respectant les objectifs **qualité, coûts et délais**.  
 
-### Activités principales 
+Activités principales:
 - **Étude de faisabilité technique** et participation au **chiffrage des nouveaux produits** (consommation matière et coûts de production transmis au contrôle de gestion pour le calcul du prix de revient).  
 - **Suivi de la réalisation des prototypes**.  
 - **Définition et mise en place** des nouveaux **process de fabrication** (**machines, outillage, méthodes**).  
@@ -75,74 +75,92 @@ Richbond Ci, Coté d’ivoire  (2016-2019)
 - **Identification des axes d’amélioration** du TRS, de l’efficience et du taux de chutes, avec proposition des **chantiers d’amélioration** à lancer (**VSM, GRP, 5S, Hoshin, SMED, TPM**). 
 
 **Travailleur autonome (analyse de données et enseignement)**  
-Casablanca, Maroc  
-2016  
-- Traitement et Analyse de données avec Excel, R python.  
-- Cours de soutien en mathématiques et informatique (Bureautique)
-
+Casablanca, Maroc  (2016)  
+- **Traitement et analyse de données** avec `Excel`, `R` et `Python`, en appliquant des méthodes statistiques pour l’exploration et l’interprétation des résultats.  
+- **Cours de soutien en mathématiques et informatique** (bureautique), incluant des notions de **statistiques**, **modélisation de données**, et **programmation**.  
+- Accompagnement pédagogique d’étudiants et professionnels, avec des approches adaptées aux besoins spécifiques en **analyse quantitative**, **optimisation**, et **automatisation des tâches**.
+  
 **Ingénieur R&D**  
-Entreprise CETIM-MINES DOUAI, France, Douai  
-2015  
-Mettre en place un modèle mathématique permettant l’évaluation de Probabilité de détection (POD) des défauts par le contrôle ultrasons.  
-Évaluation de la POD par simulation et par expérimentation, rédaction de propositions en vue de l’intégration de la notion de la POD dans les méthodologies de contrôle.
-
+CETIM-MINES DOUAI, France, Douai  (2015) 
+- **Développement et mise en place** d’un **modèle mathématique** permettant l’évaluation de la **probabilité de détection (POD)** des défauts via le **contrôle par ultrasons**.  
+- **Évaluation de la POD** par **simulation numérique** et expérimentation en laboratoire, en appliquant des méthodes statistiques et probabilistes avancées.  
+- **Optimisation des méthodologies de contrôle**, avec élaboration de recommandations pour l’intégration de la notion de POD dans les protocoles industriels.  
+- **Analyse et modélisation des données expérimentales**, en exploitant des outils comme `MATLAB`, `Python`, et `R` pour le traitement et l’interprétation des résultats.  
+- **Rédaction de rapports techniques et scientifiques**, et présentation des résultats aux équipes de recherche et partenaires industriels.
+  
 ## AUTRES FORMATIONS
+### **Certificats**  
+**Formation à distance** (2020-2024)  
+- **Préparer votre carrière dans l'IA générative** – Microsoft et LinkedIn  
+- **Neural Networks and Deep Learning**  
+- **The R Programming Environment**  
+- **Excel Skills for Business**  
+- **Introduction to Genomic Technologies**  
+- **Genomic Data Science with Galaxy**  
+- **Python for Genomic Data Science**  
 
-Certificats :  
-- Préparer votre carrière dans l'IA générative par Microsoft et LinkedIn  
-- ‘Neural Networks and Deep Learning’  
-- ‘The R programming environment’  
-- ‘Excel Skills for Business’  
-- ‘Introduction to Genomic Technologies’  
-- ‘Genomic Data Science with Galaxy’  
-- ‘Python for Genomic Data Science’  
-À distance  
-2020-2024
+## AUTRES EXPÉRIENCES  
 
-## AUTRES EXPÉRIENCES
+### **Représentant porte à porte**  
+**Vertdure** (2025 - …)  
 
-**Agent de sécurité temporaire Covid-19**  
-2020-2022
+### **Valet, Patrouilleur**  
+**Indigo – Hôtel Hilton, Hôtel Germain** (2022 - …)  
+- Fournir un **service à la clientèle** selon les meilleurs standards.  
+- Déplacer et **stationner les véhicules** avec la plus grande minutie.  
+- Effectuer l’**inspection sommaire** avant la prise en charge des véhicules.  
 
-**Valet chez Indigo**  
-2022-…
+### **Agent de sécurité temporaire – Covid-19**  
+(2020 - 2022)  
+- Faire respecter les **consignes COVID** tout en offrant un **service client** optimal.  
 
 **Projet de fin d’études**  
-Entreprise RMA assurance, Casablanca, Maroc  
-2014  
-- Épuration et validation de la base de données  
-- Mise à disposition d’un système de segmentation pour des objectifs marketings et modélisation  
-- Réalisation et automatisation de l'étude tarifaire du RC automobile (VBA et SAS et SPSS)
+**RMA Assurance, Casablanca, Maroc** (2014)  
+- **Épuration et validation** de la base de données.  
+- Mise en place d’un **système de segmentation** pour des objectifs marketing et de modélisation.  
+- **Réalisation et automatisation** de l’étude tarifaire du RC automobile (`VBA`, `SAS`, `SPSS`).  
 
-**Stage de perfectionnement –statistique/analyse de données**  
-Entreprise Université Cadi Ayyad, Maroc  
-2013  
-Application des Réseaux de neurones au scoring bancaire
+**Stage de perfectionnement – Statistique / Analyse de données**  
+**Université Cadi Ayyad, Maroc** (2013)  
+- Application des **réseaux de neurones** au **scoring bancaire**.  
+
+**Stage d'observation**  
+**Best Milk, Marrakech, Maroc** (2012)  
+- Tâches de **comptabilité**, gestion des **achats**…  
+
+**Jobs d'été :**  
+- Expérience dans divers domaines : **construction**, **menuiserie**, **boucherie**…  
 
 ## Langues  
 - **Français** (courant) 
 - **Anglais** (courant, professionnel)  
 - **Arabe** (courant)  
-- **Tamazight** (langue maternelle) 
+- **Tamazight** (langue maternelle)
+  
 ## BOURSES / PUBLICATIONS / BÉNÉVOLAT
+**Bourses**  
+- Bénéficiaire de **bourse d’exemption des droits de scolarité supplémentaires**.  
+- Bénéficiaire de **bourse de recherche de l’Université Laval**.  
+- Bénéficiaire de **bourse de persévérance** par **ACCEM**.  
 
-**Bourses :**  
-- Bénéficiaire de bourse d’exemption des droits de scolarité supplémentaires  
-- Bénéficiaire de bourse d’université Laval pour la recherche  
-- Bénéficiaire de bourse de persévérance par ACCEM
+**Publications**  
+- **Oubninte, S., Ruczinski, I., Yanek, L. R., Mathias, R., & Bureau, A.** (2021, October).  
+  *The Reliability and Accuracy of Recombination Inferred by Shapeit2 DuoHMM on Whole Genome Sequence*.  
+  In **GENETIC EPIDEMIOLOGY** (Vol. 45, No. 7, pp. 778-779).  
+  111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY.  
+- **Trois papiers en cours de soumission**.  
 
-**Publications :**  
-Oubninte, S., Ruczinski, I., Yanek, L. R., Mathias, R., & Bureau, A. (2021, October). The Reliability and Accuracy of Recombination Inferred by Shapeit2 DuoHMM on Whole Genome Sequence. In GENETIC EPIDEMIOLOGY (Vol. 45, No. 7, pp. 778-779). 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY.
+## Bénévolat  
+- **Co-organisateur et conférencier** participant au **Bootcamp IID 2025**  
+  [Site web de l’événement](https://sites.google.com/view/bootcamp-iid-2025/accueil)  
+- **Animateur d’ateliers de français** *Divertirse en français* pour les travailleurs étrangers temporaires.  
+- **Bénévole** à l’**Association Mieux-Être des Immigrants**.  
+- **Ancien vice-président** de **L’AMMUL** et **bénévole** à l’**Université Laval**.  
+- **Membre du club IAF** (Ingénieurs Actuaires et Financiers).   
 
-**Bénévolat :**  
-- Bénévole à l’Association Mieux-Être des Immigrants  
-- Ancien Vise président de L’AMMUL, et bénévole à université Laval  
-- Membre du club IAF (ingénieurs actuaires et financiers)
-
-## PROJET SCOLAIRE EN STATISTIQUE / ANALYSE DE DONNÉES
-
-- Modélisation du trafic mensuel de l’aéroport de Toulouse-Blangnac (Avec R).  
-- Pricing des options (cas discret et cas continu) sous Excel-VBA ;  
-- Modélisation de taux d’intérêt sous Excel ;  
-- Simulation des cours d’actions et d’options par la méthode de Monté Carlo.  
-- Gestion d’hôtel sous netbeans ;
+## PROJETS SCOLAIRES EN STATISTIQUE / ANALYSE DE DONNÉES  
+- **Modélisation du trafic mensuel** de l’aéroport de **Toulouse-Blagnac** avec `R`, en appliquant des méthodes statistiques et des modèles prédictifs.  
+- **Pricing des options** (cas discret et cas continu) sous `Excel-VBA`, avec une approche basée sur les modèles financiers et les équations de Black-Scholes.  
+- **Modélisation des taux d’intérêt** sous `Excel`, en utilisant des méthodes de courbe de taux et des modèles d’évolution stochastique.  
+- **Simulation des cours d’actions et d’options** par la méthode de **Monte Carlo**, avec implémentation sous `Excel-VBA` et `Python`.  
+- **Gestion d’un hôtel** sous `NetBeans`, avec développement d’une application intégrant la gestion des réservations, des paiements et des statistiques opérationnelles.  
