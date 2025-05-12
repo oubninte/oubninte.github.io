@@ -75,13 +75,13 @@ Activités principales:
 - **Identification des axes d’amélioration** du TRS, de l’efficience et du taux de chutes, avec proposition des **chantiers d’amélioration** à lancer (**VSM, GRP, 5S, Hoshin, SMED, TPM**). 
 
 **Travailleur autonome (analyse de données et enseignement)**  
-Casablanca, Maroc  (2016)  
+*Casablanca, Maroc*  (2016)  
 - **Traitement et analyse de données** avec `Excel`, `R` et `Python`, en appliquant des méthodes statistiques pour l’exploration et l’interprétation des résultats.  
 - **Cours de soutien en mathématiques et informatique** (bureautique), incluant des notions de **statistiques**, **modélisation de données**, et **programmation**.  
 - Accompagnement pédagogique d’étudiants et professionnels, avec des approches adaptées aux besoins spécifiques en **analyse quantitative**, **optimisation**, et **automatisation des tâches**.
   
 **Ingénieur R&D**  
-CETIM-MINES DOUAI, France, Douai  (2015) 
+*CETIM-MINES DOUAI, France, Douai*  (2015) 
 - **Développement et mise en place** d’un **modèle mathématique** permettant l’évaluation de la **probabilité de détection (POD)** des défauts via le **contrôle par ultrasons**.  
 - **Évaluation de la POD** par **simulation numérique** et expérimentation en laboratoire, en appliquant des méthodes statistiques et probabilistes avancées.  
 - **Optimisation des méthodologies de contrôle**, avec élaboration de recommandations pour l’intégration de la notion de POD dans les protocoles industriels.  
