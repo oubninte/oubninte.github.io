@@ -5,12 +5,17 @@ Québec, G1X 2M1
 samir.oubninte.1@ulaval.ca  
 
 ## PROFIL
+- Plus de 10 ans d'expérience en **analyse statistique avancée**, en **gestion et transformation de données massives (big data)**, et en **visualisation interactive et analytique**.  
+- Spécialiste en **méthodes statistiques**, **apprentissage automatique (machine learning)** et **modélisation statistique et algorithmique** pour l’aide à la décision et la prédiction.  
 
-8 ans d’expérience en analyse statistiques/données et visualisations de données  
-Un spécialiste des diverses méthodes statistiques, analyse et visualisation de données  
-Langages informatiques : R, SAS, Linux (Shell), C, C++, JAVA, Scilab, Matlab, LATEX, SQL, VBA, HTML5/CSS3…  
-Logiciels : bureautique (Excel, Word, Power point…), Prezi, SPSS, ECLIPSE, Photoshop, MATLAB, SCILAB (…)
-Langues : Français ; Anglais ; Arabe ; Tamazight  
+- **Langages de programmation et outils de développement** : `R`, `Python`, `SAS`, `Linux (Shell)`, `SQL` (…)  
+- **Logiciels et outils** : Suite bureautique (`Excel`, `Word`, `PowerPoint`), `Prezi`, `SPSS` (…)  
+- **Environnements de calcul et analyse** : `Jupyter Notebook`, `Power BI`, `Tableau`, `TensorFlow`, `scikit-learn` (…)  
+
+- **Français** (courant) 
+- **Anglais** (courant, professionnel)  
+- **Arabe** (courant)  
+- **Tamazight** (langue maternelle) 
 
 ## FORMATIONS ACADEMIQUE
 
