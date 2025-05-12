@@ -5,7 +5,7 @@ Québec, G1X 2M1
 samir.oubninte.1@ulaval.ca  
 
 ## PROFIL
-- Plus de 10 ans d'expérience en **analyse statistique avancée**, en **gestion et transformation de données massives (big data)**, et en **visualisation interactive et analytique**.  
+- Plus de 10 ans d'expérience en **analyse statistique avancée**, en **gestion, visualisation, analyse de données**.  
 - Spécialiste en **méthodes statistiques**, **apprentissage automatique (machine learning)** et **modélisation statistique et algorithmique** pour l’aide à la décision et la prédiction.  
 - **Langages de programmation et outils de développement** : `R`, `Python`, `SAS`, `Linux (Shell)`, `SQL` (…)  
 - **Logiciels et outils** : Suite bureautique (`Excel`, `Word`, `PowerPoint`), `Prezi`, `SPSS` (…)  
@@ -16,7 +16,7 @@ samir.oubninte.1@ulaval.ca
 **Études au doctorat en biostatistique**  
 *Université Laval, Québec* (2019 - en cours)  
 - Recherche approfondie sur les **méthodes statistiques appliquées à la biologie et à la santé**, notamment en modélisation et en analyse de données génétique.  
-- Développement et implémentation de **modèles prédictifs** pour l’évaluation de risques et la prise de décision clinique, en utilisant des techniques avancées de **machine learning** et d’**apprentissage statistique**.  
+- Développement et implémentation de **modèles prédictifs** pour l’évaluation de risques et la prise de décision, en utilisant des techniques avancées de **machine learning** et d’**apprentissage statistique**.  
 - Analyse de données massives (**big data**) provenant d'études épidémiologiques et essais cliniques, avec utilisation de **R**, **Python**.  
 - Collaboration interdisciplinaire avec chercheurs en santé publique, bioinformatique et intelligence artificielle pour l'optimisation des méthodes d'analyse et la validation des résultats.  
 - Publications scientifiques et présentations dans des conférences spécialisées, mettant en avant les avancées méthodologiques et applications pratiques en **biostatistique**.  
@@ -24,7 +24,7 @@ samir.oubninte.1@ulaval.ca
 
 **Diplôme d’Ingénieur d’état en Actuariat Finance**  
 Évaluation comparative du MIFI : Baccalauréat en Actuariat  
-Faculté des Sciences et Technique ; Université cadi ayyad, Marrakech Maroc (2014)
+*Faculté des Sciences et Technique ; Université cadi ayyad, Marrakech Maroc* (2014)
 - Formation approfondie en **modélisation financière**, en **gestion des risques actuariels** et en **optimisation des portefeuilles d’investissement**.  
 - Acquisition de compétences en **statistiques avancées**, **probabilités**, **mathématiques financières** et **évaluation actuarielle** pour les assurances et les fonds de pension.  
 - Élaboration et application de modèles de **prévoyance sociale** et de **gestion des sinistres**, en exploitant des outils quantitatifs tels que `R`, `Python`, `SAS` et `Excel VBA`.  
@@ -32,20 +32,20 @@ Faculté des Sciences et Technique ; Université cadi ayyad, Marrakech Maroc (20
   
 **Diplôme d’Éducation Universitaire Général (Option Sciences Mathématiques Appliquées)**  
 Évaluation comparative du MIFI : DES et une année d’études collégiales préuniversitaires réussi  
-Faculté des sciences Semlalia ; Université cadi ayyad, Marrakech Maroc (2011)  
+*Faculté des sciences Semlalia ; Université cadi ayyad, Marrakech Maroc* (2011)  
 - Formation en **mathématiques appliquées**, avec une spécialisation en **statistiques**.
 - Développement de compétences en **analyse quantitative**, **résolution de problèmes complexes**, et **applications scientifiques des mathématiques**.  
 
 ## EXPÉRIENCES PERTINENTES EN STATISTIQUE / ANALYSE DE DONNÉES
 
 **Auxiliaire d'enseignement -Machine Learning for Signal Processing (MLSP)**  
-Université Laval, Québec  (Session d’automne 2024)
+*Université Laval, Québec*  (Session d’automne 2024)
 - **Animation des séances de travaux pratiques** et accompagnement des étudiants dans l'application concrète des concepts abordés en cours.  
 - Cours dispensé entièrement en **anglais**, avec explication approfondie des notions de **traitement du signal**, **modélisation prédictive**, et **algorithmes de machine learning**.  
 - Correction et suivi pédagogique **examens** et des **travaux pratiques**
   
 **Professionnel de recherche biostatisticien**  
-CISSCA–Lévis , Lévis  (2021-2022)  
+*CISSCA–Lévis , Lévis*  (2021-2022)  
 - Mise en œuvre de **méthodes statistiques avancées** pour l’analyse de données en **santé publique** et en **recherche clinique**.  
 - Développement et validation de **modèles prédictifs** appliqués aux données médicales afin d’améliorer la prise de décision clinique.  
 - Analyse et interprétation de **données épidémiologiques**, avec une approche basée sur les techniques de **modélisation statistique**.
@@ -53,7 +53,7 @@ CISSCA–Lévis , Lévis  (2021-2022)
 - Rédaction de rapports scientifiques et contribution à la publication d’études dans des revues spécialisées. 
 
 **Responsable ingénierie (analyse de données)**  
-Richbond Ci, Coté d’ivoire  (2016-2019)  
+*Richbond Ci, Coté d’ivoire*  (2016-2019)  
 Missions principales:
 - **Définir et mettre en place** avec le responsable de production les nouveaux process.  
 - **Calculer la capacité** par rapport à la charge (**nombre de machines, nombre de postes, nombre d’opérateurs**).  
@@ -85,12 +85,13 @@ CETIM-MINES DOUAI, France, Douai  (2015)
 - **Développement et mise en place** d’un **modèle mathématique** permettant l’évaluation de la **probabilité de détection (POD)** des défauts via le **contrôle par ultrasons**.  
 - **Évaluation de la POD** par **simulation numérique** et expérimentation en laboratoire, en appliquant des méthodes statistiques et probabilistes avancées.  
 - **Optimisation des méthodologies de contrôle**, avec élaboration de recommandations pour l’intégration de la notion de POD dans les protocoles industriels.  
-- **Analyse et modélisation des données expérimentales**, en exploitant des outils comme `MATLAB`, `Python`, et `R` pour le traitement et l’interprétation des résultats.  
+- **Analyse et modélisation des données expérimentales**, en exploitant des outils comme `MATLAB`, `Excel`, et `VBA` pour le traitement et l’interprétation des résultats.  
 - **Rédaction de rapports techniques et scientifiques**, et présentation des résultats aux équipes de recherche et partenaires industriels.
   
 ## AUTRES FORMATIONS
-### **Certificats**  
-**Formation à distance** (2020-2024)  
+
+**Certificats**  
+*Formation à distance* (2020-2024)  
 - **Préparer votre carrière dans l'IA générative** – Microsoft et LinkedIn  
 - **Neural Networks and Deep Learning**  
 - **The R Programming Environment**  
@@ -102,10 +103,10 @@ CETIM-MINES DOUAI, France, Douai  (2015)
 ## AUTRES EXPÉRIENCES  
 
 **Représentant porte à porte**  
-Vertdure (2025 - …)  
+*Vertdure (2025 - En cours)*  
 
 **Valet, Patrouilleur**  
-Indigo – Hôtel Hilton, Hôtel Germain- (2022 - en cours)  
+*Indigo – Hôtel Hilton, Hôtel Germain-* (2022 - en cours)  
 - Fournir un **service à la clientèle** selon les meilleurs standards.  
 - Déplacer et **stationner les véhicules** avec la plus grande minutie.  
 - Effectuer l’**inspection sommaire** avant la prise en charge des véhicules.  
@@ -114,17 +115,17 @@ Indigo – Hôtel Hilton, Hôtel Germain- (2022 - en cours)
 - Faire respecter les **consignes COVID** tout en offrant un **service client** optimal.  
 
 **Projet de fin d’études**  
-RMA Assurance, Casablanca, Maroc (2014)  
+*RMA Assurance, Casablanca, Maroc* (2014)  
 - **Épuration et validation** de la base de données.  
 - Mise en place d’un **système de segmentation** pour des objectifs marketing et de modélisation.  
 - **Réalisation et automatisation** de l’étude tarifaire du RC automobile (`VBA`, `SAS`, `SPSS`).  
 
 **Stage de perfectionnement – Statistique / Analyse de données**  
-Université Cadi Ayyad, Maroc (2013)  
+*Université Cadi Ayyad, Maroc* (2013)  
 - Application des **réseaux de neurones** au **scoring bancaire**.  
 
 **Stage d'observation**  
-Best Milk, Marrakech, Maroc** (2012)  
+*Best Milk, Marrakech, Maroc* (2012)  
 - Tâches de **comptabilité**, gestion des **achats**…  
 
 **Jobs d'été :**  
@@ -144,9 +145,7 @@ Best Milk, Marrakech, Maroc** (2012)
 
 **Publications**  
 - **Oubninte, S., Ruczinski, I., Yanek, L. R., Mathias, R., & Bureau, A.** (2021, October).  
-  *The Reliability and Accuracy of Recombination Inferred by Shapeit2 DuoHMM on Whole Genome Sequence*.  
-  In **GENETIC EPIDEMIOLOGY** (Vol. 45, No. 7, pp. 778-779).  
-  111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY.  
+  *The Reliability and Accuracy of Recombination Inferred by Shapeit2 DuoHMM on Whole Genome Sequence*. In **GENETIC EPIDEMIOLOGY** (Vol. 45, No. 7, pp. 778-779). 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY.  
 - **Trois papiers en cours de soumission**.  
 
 ## Bénévolat  
