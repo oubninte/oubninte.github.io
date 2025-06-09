@@ -39,7 +39,7 @@ samir.oubninte.1@ulaval.ca
 ## EXPÉRIENCES PERTINENTES EN STATISTIQUE / ANALYSE DE DONNÉES
 
 **Professionnel de recherche**
-*Centre de recherche CERVO, Contrat à partiel (juin 2025 -...)*
+*Centre de recherche CERVO, Contrat à partiel (Mai 2025 -...)*
 - Contribution au développement de nouvelles méthodes statistiques en génomique, à leur mise en œuvre dans la recherche appliquée, puis à la diffusion du code sur GitHub
 - Analyse de vastes ensembles de données à l’aide de R, Python, PLINK et Shell sur des ordinateurs Linux à haute performance
 - Contribution à la rédaction d’articles scientifiques
