@@ -1,8 +1,8 @@
 
-105-767 rue de Rougemont,  
+
 Québec, G1X 2M1  
 581-978-3639  
-samir.oubninte.1@ulaval.ca  
+samir.oubninte.1@ulaval.ca 
 
 ## PROFIL
 - Plus de 10 ans d'expérience en **analyse statistique avancée**, en **gestion, visualisation, analyse de données**.  
@@ -38,6 +38,12 @@ samir.oubninte.1@ulaval.ca
 
 ## EXPÉRIENCES PERTINENTES EN STATISTIQUE / ANALYSE DE DONNÉES
 
+**Professionnel de recherche**
+*Centre de recherche CERVO, Contrat à partiel (juin 2025 -...)*
+- Contribution au développement de nouvelles méthodes statistiques en génomique, à leur mise en œuvre dans la recherche appliquée, puis à la diffusion du code sur GitHub
+- Analyse de vastes ensembles de données à l’aide de R, Python, PLINK et Shell sur des ordinateurs Linux à haute performance
+- Contribution à la rédaction d’articles scientifiques
+        
 **Auxiliaire d'enseignement -Machine Learning for Signal Processing (MLSP)**  
 *Université Laval, Québec*  (Session d’automne 2024)
 - **Animation des séances de travaux pratiques** et accompagnement des étudiants dans l'application concrète des concepts abordés en cours.  
