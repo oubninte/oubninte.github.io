@@ -154,9 +154,12 @@ Activités principales:
 - Bénéficiaire de **bourse de recherche de l’Université Laval**.  
 - Bénéficiaire de **bourse de persévérance** par **ACCEM**.  
 
-**Publications**  
+**Publications / Conferences**  
 - **Oubninte, S., Ruczinski, I., Yanek, L. R., Mathias, R., & Bureau, A.** (2021, October).  
-  *The Reliability and Accuracy of Recombination Inferred by Shapeit2 DuoHMM on Whole Genome Sequence*. In **GENETIC EPIDEMIOLOGY** (Vol. 45, No. 7, pp. 778-779). 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY.  
+  *The Reliability and Accuracy of Recombination Inferred by Shapeit2 DuoHMM on Whole Genome Sequence*. In **GENETIC EPIDEMIOLOGY** (Vol. 45, No. 7, pp. 778-779). 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY.
+- *Statistical approach leveraging Founder Population Genealogy and Identical by Descent Segments (IBDS) to Identify Rare Variants in Complex Diseases* Résumé accepté en format poster, IGES 2023
+- *Statistical Approach Leveraging Populations with a Founder Effect Genealogy and Identical by Descent Segments to Identify Rare Variants in Complex Diseases* Résumé accepté, ASHG 2025
+
 - **Trois papiers en cours de soumission**.  
 
 ## Bénévolat  
