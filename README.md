@@ -13,8 +13,8 @@ samir.oubninte.1@ulaval.ca
 
 ## FORMATIONS ACADEMIQUE
 
-**Études au doctorat en biostatistique**  
-*Université Laval, Québec* (2019 - en cours)[En évaluation]  
+**Études au doctorat en biostatistique [En évaluation]  **  
+*Université Laval, Québec* (2019 - en cours)
 - Recherche approfondie sur les **méthodes statistiques appliquées à la biologie et à la santé**, notamment en modélisation et en analyse de données génétique.  
 - Développement et implémentation de **modèles prédictifs** pour l’évaluation de risques et la prise de décision, en utilisant des techniques avancées de **machine learning** et d’**apprentissage statistique**.  
 - Analyse de données massives (**big data**) provenant d'études épidémiologiques et essais cliniques, avec utilisation de **R**, **Python**.  
