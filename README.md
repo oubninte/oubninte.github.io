@@ -160,7 +160,7 @@ Activités principales:
 - *Statistical approach leveraging Founder Population Genealogy and Identical by Descent Segments (IBDS) to Identify Rare Variants in Complex Diseases* Résumé accepté en format poster, IGES 2023
 - *Statistical Approach Leveraging Populations with a Founder Effect Genealogy and Identical by Descent Segments to Identify Rare Variants in Complex Diseases* Résumé accepté, ASHG 2025
 
-- **Trois papiers en cours de soumission**.  
+- Articles en cours de soumission : Trois manuscrits en cours de soumission dans des revues scientifiques à comité de lecture, en tant que premier auteur.
 
 ## Bénévolat  
 - **Co-organisateur et conférencier** participant au **Bootcamp IID 2025** ([Site web de l’événement](https://sites.google.com/view/bootcamp-iid-2025/accueil))
